@@ -75,7 +75,7 @@ OTHER_TRACE_PREFIX="sf_on_mc_cell_"
 
 
 ### analysis params ###
-BINS_NUM = 40
+BINS_NUM = 48
 
 ###plotting params ###
 PYR_COLOR = "tab:red"
@@ -719,6 +719,7 @@ def bin_binary_data_by_time(cell,col_name,df=None,time_window=1):  #time window 
 
 
         
+
 
 
 
